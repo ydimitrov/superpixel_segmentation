@@ -5,7 +5,7 @@ Efficient Graph-Based Image Segmentation
 Pedro F. Felzenszwalb and Daniel P. Huttenlocher
 International Journal of Computer Vision, 59(2) September 2004.
 
-The algorithm analyses the histogram or average colour of a cluster. The program takes a color image (PPM format) and produces a segmentation with a the average colour for each cluster. If the average colour or histogram match with the provided example, the cluster is included for segmentation.
+The program takes a color image (PPM format) and produces a segmentation with a the average colour for each cluster. The algorithm analyses the histogram or average colour of a cluster. If the average colour or histogram match with the provided example, the cluster is included for segmentation.
 
 ### Prerequisites
 - C++11
@@ -51,11 +51,11 @@ To run algorithm after modifications run the following command:
 - it is important to set the average colour of the sample in file segment-image.h on lines 174-181 to the corresponding image
 ## Example segmentations
 
-![alt text](https://github.com/ydimitrov/superpixel_segmentation/examples/master/example1.jpg?raw=true)
+![example1](https://github.com/ydimitrov/superpixel_segmentation/examples/master/example1.jpg?raw=true)
 
-![alt text](https://github.com/ydimitrov/superpixel_segmentation/examples/master/example2.jpg?raw=true)
+![example2](https://github.com/ydimitrov/superpixel_segmentation/examples/master/example2.jpg?raw=true)
 
-![alt text](https://github.com/ydimitrov/superpixel_segmentation/examples/master/example3.jpg?raw=true)
+![example3](https://github.com/ydimitrov/superpixel_segmentation/examples/example3.jpg?raw=true)
 
 ## Authors
 Yordan Dimitrov under the supervision of Thomas Woudsma and Tony Paulussen at Prodrive Technologies
