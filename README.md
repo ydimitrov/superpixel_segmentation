@@ -51,11 +51,11 @@ To run algorithm after modifications run the following command:
 - it is important to set the average colour of the sample in file segment-image.h on lines 174-181 to the corresponding image
 ## Example segmentations
 
-![example1](https://github.com/ydimitrov/superpixel_segmentation/examples/master/example1.jpg?raw=true)
+![example1](https://github.com/ydimitrov/superpixel_segmentation/blob/master/examples/example1.png?raw=true)
 
-![example2](https://github.com/ydimitrov/superpixel_segmentation/examples/master/example2.jpg?raw=true)
+![example2](https://github.com/ydimitrov/superpixel_segmentation/blob/master/examples/example2.png?raw=true)
 
-![example3](https://github.com/ydimitrov/superpixel_segmentation/examples/example3.jpg?raw=true)
+![example3](https://github.com/ydimitrov/superpixel_segmentation/blob/master/examples/example3.png?raw=true)
 
 ## Authors
 Yordan Dimitrov under the supervision of Thomas Woudsma and Tony Paulussen at Prodrive Technologies
