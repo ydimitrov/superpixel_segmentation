@@ -13,11 +13,15 @@ with a random color assigned to each region.
 
 The parameters are: (see the paper for details)
 
-sigma: Used to smooth the input image before segmenting it.
-k: Value for the threshold function.
-min: Minimum component size enforced by post-processing.
-input: Input image.
-output: Output image.
+- sigma: Used to smooth the input image before segmenting it
+
+- k: Value for the threshold function
+
+- min: Minimum component size enforced by post-processing
+
+- input: Input image
+
+- output: Output image
 
 Typical parameters are sigma = 0.5, k = 500, min = 20.
 Larger values for k result in larger components in the result.
