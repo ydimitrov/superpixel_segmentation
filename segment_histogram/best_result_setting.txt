@@ -1,0 +1,14 @@
+best results for each image histogram
+
+4.ppm  - ./run_and_convert.sh 0 50 100 square_ppms/4.ppm true_positives/4_tp.png 0.15
+1.ppm  - ./run_and_convert.sh 0 10 100 square_ppms/1.ppm true_positives/1_tp.png 0.1
+14.ppm - ./run_and_convert.sh 0 2 500 square_ppms/14.ppm true_positives/14_tp.png 0.5
+11.ppm - ./run_and_convert.sh 0 450 100 square_ppms/11.ppm true_positives/11_tp.png 0.1
+9_cropped.ppm - ./run_and_convert.sh 0 20 200 square_ppms/9_cropped.ppm true_positives/9_cropped_tp.png 0.75
+10.ppm - ./run_and_convert.sh 0 20 200 square_ppms/10.ppm true_positives/10_tp-Copy.png 0.05
+2_cropped.ppm - ./run_and_convert.sh 0 1 500 square_ppms/2_cropped.ppm true_positives/2_cropped_tp.png 0.3
+test2.ppm - ./run_and_convert.sh 0 20 200 square_ppms/test2.ppm true_positives/test2_tp.png 0.1
+test.ppm  -./run_and_convert.sh 0 500 100 square_ppms/test.ppm true_positives/test_tp.png 0.3
+15.ppm - ./run_and_convert.sh 0 2 500 square_ppms/15.ppm true_positives/15_tp.png 0.13
+19.ppm - ./run_and_convert.sh 0 20 200 square_ppms/19.ppm true_positives/2_cropped_tp.png 0.1
+20.ppm - ./run_and_convert.sh 0 50 500 square_ppms/20.ppm samples/sample_20.png 0.05
