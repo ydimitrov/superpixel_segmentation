@@ -1,9 +1,9 @@
 # Superpixel segmentation for visual inspection
 Implementation of the segmentation algorithm described in:
 
-Efficient Graph-Based Image Segmentation
+"*Efficient Graph-Based Image Segmentation
 Pedro F. Felzenszwalb and Daniel P. Huttenlocher
-International Journal of Computer Vision, 59(2) September 2004.
+International Journal of Computer Vision, 59(2) September 2004.*"
 
 The program takes a color image (PPM format) and produces a segmentation with a the average colour for each cluster. The algorithm analyses the histogram or average colour of a cluster. If the average colour or histogram match with the provided example, the cluster is included for segmentation.
 
